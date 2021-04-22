@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/dyl-editor/static/css/main.238da56f.chunk.css",
-    "main.js": "/dyl-editor/static/js/main.8d74cd40.chunk.js",
-    "main.js.map": "/dyl-editor/static/js/main.8d74cd40.chunk.js.map",
+    "main.js": "/dyl-editor/static/js/main.8f3cc45e.chunk.js",
+    "main.js.map": "/dyl-editor/static/js/main.8f3cc45e.chunk.js.map",
     "runtime-main.js": "/dyl-editor/static/js/runtime-main.e84d8607.js",
     "runtime-main.js.map": "/dyl-editor/static/js/runtime-main.e84d8607.js.map",
-    "static/js/2.a9821ebb.chunk.js": "/dyl-editor/static/js/2.a9821ebb.chunk.js",
-    "static/js/2.a9821ebb.chunk.js.map": "/dyl-editor/static/js/2.a9821ebb.chunk.js.map",
+    "static/js/2.c3be1e0a.chunk.js": "/dyl-editor/static/js/2.c3be1e0a.chunk.js",
+    "static/js/2.c3be1e0a.chunk.js.map": "/dyl-editor/static/js/2.c3be1e0a.chunk.js.map",
     "index.html": "/dyl-editor/index.html",
     "static/css/main.238da56f.chunk.css.map": "/dyl-editor/static/css/main.238da56f.chunk.css.map",
-    "static/js/2.a9821ebb.chunk.js.LICENSE.txt": "/dyl-editor/static/js/2.a9821ebb.chunk.js.LICENSE.txt",
+    "static/js/2.c3be1e0a.chunk.js.LICENSE.txt": "/dyl-editor/static/js/2.c3be1e0a.chunk.js.LICENSE.txt",
     "static/media/logo512.c49869f0.png": "/dyl-editor/static/media/logo512.c49869f0.png"
   },
   "entrypoints": [
     "static/js/runtime-main.e84d8607.js",
-    "static/js/2.a9821ebb.chunk.js",
+    "static/js/2.c3be1e0a.chunk.js",
     "static/css/main.238da56f.chunk.css",
-    "static/js/main.8d74cd40.chunk.js"
+    "static/js/main.8f3cc45e.chunk.js"
   ]
 }
