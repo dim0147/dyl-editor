@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/dyl-editor/static/css/main.238da56f.chunk.css",
-    "main.js": "/dyl-editor/static/js/main.2cccf2a7.chunk.js",
-    "main.js.map": "/dyl-editor/static/js/main.2cccf2a7.chunk.js.map",
+    "main.js": "/dyl-editor/static/js/main.2341fd73.chunk.js",
+    "main.js.map": "/dyl-editor/static/js/main.2341fd73.chunk.js.map",
     "runtime-main.js": "/dyl-editor/static/js/runtime-main.e84d8607.js",
     "runtime-main.js.map": "/dyl-editor/static/js/runtime-main.e84d8607.js.map",
     "static/js/2.c3be1e0a.chunk.js": "/dyl-editor/static/js/2.c3be1e0a.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.e84d8607.js",
     "static/js/2.c3be1e0a.chunk.js",
     "static/css/main.238da56f.chunk.css",
-    "static/js/main.2cccf2a7.chunk.js"
+    "static/js/main.2341fd73.chunk.js"
   ]
 }
