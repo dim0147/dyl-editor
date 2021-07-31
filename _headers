@@ -1,0 +1,5 @@
+# a path:
+/index.html
+  # headers for that path:
+  Cross-Origin-Opener-Policy: same-origin
+  Cross-Origin-Embedder-Policy: require-corp
