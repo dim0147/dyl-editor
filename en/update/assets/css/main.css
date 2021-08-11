@@ -3491,10 +3491,10 @@ input, select, textarea {
 		}
 
 			.banner.style1 .image img {
-				-moz-object-fit: cover;
-				-webkit-object-fit: cover;
-				-ms-object-fit: cover;
-				object-fit: cover;
+				-moz-object-fit: contain;
+				-webkit-object-fit: contain;
+				-ms-object-fit: contain;
+				object-fit: contain;
 				-moz-object-position: center;
 				-webkit-object-position: center;
 				-ms-object-position: center;
@@ -3690,10 +3690,10 @@ input, select, textarea {
 		}
 
 			.banner.style2 .image img {
-				-moz-object-fit: cover;
-				-webkit-object-fit: cover;
-				-ms-object-fit: cover;
-				object-fit: cover;
+				-moz-object-fit: contain;
+				-webkit-object-fit: contain;
+				-ms-object-fit: contain;
+				object-fit: contain;
 				-moz-object-position: center;
 				-webkit-object-position: center;
 				-ms-object-position: center;
@@ -3853,10 +3853,10 @@ input, select, textarea {
 		}
 
 			.banner.style3 .image img {
-				-moz-object-fit: cover;
-				-webkit-object-fit: cover;
-				-ms-object-fit: cover;
-				object-fit: cover;
+				-moz-object-fit: contain;
+				-webkit-object-fit: contain;
+				-ms-object-fit: contain;
+				object-fit: contain;
 				-moz-object-position: center;
 				-webkit-object-position: center;
 				-ms-object-position: center;
@@ -4048,10 +4048,10 @@ input, select, textarea {
 		}
 
 			.banner.style4 .image img {
-				-moz-object-fit: cover;
-				-webkit-object-fit: cover;
-				-ms-object-fit: cover;
-				object-fit: cover;
+				-moz-object-fit: contain;
+				-webkit-object-fit: contain;
+				-ms-object-fit: contain;
+				object-fit: contain;
 				-moz-object-position: center;
 				-webkit-object-position: center;
 				-ms-object-position: center;
@@ -4301,10 +4301,10 @@ input, select, textarea {
 		}
 
 			.banner.style5 .image img {
-				-moz-object-fit: cover;
-				-webkit-object-fit: cover;
-				-ms-object-fit: cover;
-				object-fit: cover;
+				-moz-object-fit: contain;
+				-webkit-object-fit: contain;
+				-ms-object-fit: contain;
+				object-fit: contain;
 				-moz-object-position: center;
 				-webkit-object-position: center;
 				-ms-object-position: center;
@@ -4894,10 +4894,10 @@ input, select, textarea {
 		}
 
 			.spotlight.style1 .image img {
-				-moz-object-fit: cover;
-				-webkit-object-fit: cover;
-				-ms-object-fit: cover;
-				object-fit: cover;
+				-moz-object-fit: contain;
+				-webkit-object-fit: contain;
+				-ms-object-fit: contain;
+				object-fit: contain;
 				-moz-object-position: center;
 				-webkit-object-position: center;
 				-ms-object-position: center;
@@ -5060,10 +5060,10 @@ input, select, textarea {
 		}
 
 			.spotlight.style2 .image img {
-				-moz-object-fit: cover;
-				-webkit-object-fit: cover;
-				-ms-object-fit: cover;
-				object-fit: cover;
+				-moz-object-fit: contain;
+				-webkit-object-fit: contain;
+				-ms-object-fit: contain;
+				object-fit: contain;
 				-moz-object-position: center;
 				-webkit-object-position: center;
 				-ms-object-position: center;
@@ -5251,10 +5251,10 @@ input, select, textarea {
 		}
 
 			.spotlight.style3 .image img {
-				-moz-object-fit: cover;
-				-webkit-object-fit: cover;
-				-ms-object-fit: cover;
-				object-fit: cover;
+				-moz-object-fit: contain;
+				-webkit-object-fit: contain;
+				-ms-object-fit: contain;
+				object-fit: contain;
 				-moz-object-position: center;
 				-webkit-object-position: center;
 				-ms-object-position: center;
@@ -5502,10 +5502,10 @@ input, select, textarea {
 		}
 
 			.spotlight.style4 .image img {
-				-moz-object-fit: cover;
-				-webkit-object-fit: cover;
-				-ms-object-fit: cover;
-				object-fit: cover;
+				-moz-object-fit: contain;
+				-webkit-object-fit: contain;
+				-ms-object-fit: contain;
+				object-fit: contain;
 				-moz-object-position: center;
 				-webkit-object-position: center;
 				-ms-object-position: center;
@@ -5682,10 +5682,10 @@ input, select, textarea {
 		}
 
 			.spotlight.style5 .image img {
-				-moz-object-fit: cover;
-				-webkit-object-fit: cover;
-				-ms-object-fit: cover;
-				object-fit: cover;
+				-moz-object-fit: contain;
+				-webkit-object-fit: contain;
+				-ms-object-fit: contain;
+				object-fit: contain;
 				-moz-object-position: center;
 				-webkit-object-position: center;
 				-ms-object-position: center;
