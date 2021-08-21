@@ -1,0 +1,39 @@
+@import url(https://fonts.googleapis.com/css?family=Droid+Sans:400,700);
+p{
+	color: #4ee;
+	font-weight: 700;
+	font-size: 500%;
+	 font-family: "Droid Sans", arial, verdana, sans-serif;
+	 position: absolute;
+	 background-color: #000;	
+	 top: 30%;
+	 left :40%;
+	 padding : 5px;
+}
+
+#image{
+	/* position: absolute; */
+	 background-image: url("endgame.jpg");
+	 background-repeat: no-repeat;
+	background-size: cover;
+	 display: none;
+	 width: 100%;
+	 height: 90%;
+}
+
+button {
+  background-color: #000000;
+  border: none;
+  color: #CCCCCC;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  display: none;
+}
+
+button:hover {
+	 background-color: #99FF33;
+}
