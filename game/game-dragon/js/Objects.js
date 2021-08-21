@@ -525,7 +525,7 @@ var mainCar = function(xcanvas, ycanvas){
 	this.yCanvas = ycanvas;
 	this.degree = 0;
 	this.go = 2;	//	Speed of Car
-	this.hp = 10;
+	this.hp = 50;
 	this.width = 110;
 	this.height = 100;
 	this.armor = 1;
@@ -626,9 +626,9 @@ var mainCar = function(xcanvas, ycanvas){
 	
 	this.hpBar = function(){
 		var hpDraw = (150 / 10) * this.hp;
-		if (this.hp > 10)
-			this.hp = 10;
-		else if (this.hp < 0)
+		// if (this.hp > 10)
+			// this.hp = 10;
+		if (this.hp < 0)
 			this.hp = 0;
 		ctx.beginPath();
 		ctx.lineWidth = "6";
