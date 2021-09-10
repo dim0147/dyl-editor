@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://dim0147.github.io/dyl-editor/static/css/main.999b8ab9.chunk.css",
-    "main.js": "https://dim0147.github.io/dyl-editor/static/js/main.140613f3.chunk.js",
-    "main.js.map": "https://dim0147.github.io/dyl-editor/static/js/main.140613f3.chunk.js.map",
+    "main.js": "https://dim0147.github.io/dyl-editor/static/js/main.1b9ab201.chunk.js",
+    "main.js.map": "https://dim0147.github.io/dyl-editor/static/js/main.1b9ab201.chunk.js.map",
     "runtime-main.js": "https://dim0147.github.io/dyl-editor/static/js/runtime-main.44b400ec.js",
     "runtime-main.js.map": "https://dim0147.github.io/dyl-editor/static/js/runtime-main.44b400ec.js.map",
     "static/js/2.699a1c6b.chunk.js": "https://dim0147.github.io/dyl-editor/static/js/2.699a1c6b.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.44b400ec.js",
     "static/js/2.699a1c6b.chunk.js",
     "static/css/main.999b8ab9.chunk.css",
-    "static/js/main.140613f3.chunk.js"
+    "static/js/main.1b9ab201.chunk.js"
   ]
 }

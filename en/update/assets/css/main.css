@@ -8601,3 +8601,8 @@ input, select, textarea {
 			#wrapper.divided > .invert:first-child {
 				box-shadow: none !important;
 			}
+
+.content-features > p {
+	margin: 0;
+	font-weight: bold;
+}
